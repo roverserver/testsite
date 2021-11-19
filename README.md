@@ -1,2 +1,2 @@
 # Der Roverserver 
-Triff andere Rover aus der ganzen DPSG!
+Website für [discord.rover.de](https://discord.rover.de)
