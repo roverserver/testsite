@@ -1,2 +1,2 @@
-# roverserver.github.io
-website für discord.rover.de
+# Der Roverserver 
+Triff andere Rover aus der ganzen DPSG!
